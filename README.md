@@ -7,16 +7,17 @@ PD虚拟机安装Linux是一件非常容易的事情,但是要做一定的设置
 
 
 ##系统选择
-Red hat7
-Centos7.2
-Debian
-Ubuntu16.04(Xubuntu Lubuntu Kubuntu)
-Linux Mint17.3
-Elementary os
-OpenSUSE
-Gentoo
-Fedora
-Arch Linux
+
+* Red hat7
+* Centos7.2
+* Debian
+* Ubuntu16.04(Xubuntu Lubuntu Kubuntu)
+* Linux Mint17.3
+* Elementary os
+* OpenSUSE
+* Gentoo
+* Fedora
+* Arch Linux
 
 当然在上百种Linux发行版本中,这些仅是一小部分.这里列出的是我比较有意愿的,如果你有好的推荐可以发布在issue中,我会非常感谢.
 
