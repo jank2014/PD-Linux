@@ -9,3 +9,20 @@
 * Linux Mint的一大雄心是：使用最先进的技术而不是美化的看起来像Windows的软件使普通人也感到易用，使自己成为可以和Windows并驾齐驱的操作系统。
 * 但是这个目标并不是使其看起来像微软的或者是苹果的，而是去创造我们心中的完美桌面系统。我们应该使linux技术更易用，更简便。
 
+#PD 安装 Linux Mint
+##下载
+[Linux Mint官网](https://www.linuxmint.com/)
+[下载Linux Mint](https://www.linuxmint.com/download.php)
+建议:BT下载
+##安装
+安装过程比较简单
+第一步下载Linux Mint镜像
+第二步打开PD虚拟机 文件>新建
+第三步点击继续 然后选择Linux Mint 根据提示完成安装即可.
+
+![选择Linux Mint镜像](/Users/jankz/Desktop/屏幕快照 2016-05-10 下午1.04.38.png
+)
+
+##设置
+安装完成后,在显示效果不是很合适要做出一些相应调整.
+
